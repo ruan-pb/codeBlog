@@ -59,6 +59,12 @@ public class Post {
 	public void setTexto(String texto) {
 		this.texto = texto;
 	}
+	public String getAutor() {
+		return autor;
+	}
+	public void setAutor(String autor) {
+		this.autor = autor;
+	}
 	
 	
 	
